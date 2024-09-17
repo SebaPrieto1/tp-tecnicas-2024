@@ -9,3 +9,4 @@
 ## Utiles ##
 - Leer Enunciado.md para entender de que trata el proyecto
 - Leer Info.md para ver una breve explicacion de desiciones tomadas y patrones aplicados
+- Repositorio: https://github.com/SebaPrieto1/tp-tecnicas-2024
