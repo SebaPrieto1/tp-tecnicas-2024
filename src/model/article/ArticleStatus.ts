@@ -1,0 +1,8 @@
+export enum ArticleStatus {
+    PENDING = 'PENDING',
+    ACCEPTED = 'ACCEPTED',
+    REJECTED = 'REJECTED',
+    BIDDING = 'BIDDING',
+    REVISION = 'REVISION',
+    SELECTION = 'SELECTION'
+}

@@ -1,0 +1,5 @@
+export enum BidValue {
+    INTERESADO = 'INTERESADO',
+    NO_INTERESADO = 'NO INTERESADO',
+    QUIZAS = 'QUIZAS'
+}
